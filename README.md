@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hey there, I'm skyeai585 👋
 
-<!--
-**skyeai585/skyeai585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer interested in simple tools and pragmatic development. Based in Berlin, Germany.
 
-Here are some ideas to get you started:
+#### 🛠️ What I use
+TypeScript, Node.js, Express, SQLite, React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 What I'm up to
+- Working on indie web projects, serverless, pragmatic development
+- Exploring new frameworks and tools
+- Contributing to open-source projects
+
+📫 Reach me: [@skyeai585](https://github.com/skyeai585) on GitHub
